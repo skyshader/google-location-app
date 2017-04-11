@@ -15,6 +15,8 @@ Setup:
 - Update .env file with your mongodb connection string and other settings
 - Run `npm start` to start the backend api
 
+NOTE: In test and development environment, the database is set to reset everytime the backend api starts (for dev usage).
+
 And that's it! The API will be up and running.
 
 #### Frontend
