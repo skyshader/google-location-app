@@ -1,0 +1,34 @@
+.Signup-container {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+.Signup-container .heading {
+    padding-bottom: 10px;
+}
+
+.Signup-container input {
+    margin: 8px 0;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.Signup-container-link {
+    display: block;
+    padding-top: 20px;
+    color: #2288ff;
+}
+
+.Signup-error {
+    padding: 6px;
+    background: #ffa27c;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 5px;
+    color: #fff;
+    border: 1px solid #ef7645;
+}

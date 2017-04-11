@@ -1,0 +1,15 @@
+.Location-List {
+    width: 100%;
+    max-width: 100%;
+    margin: 20px auto 0;
+    box-sizing: border-box;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.Location-list-item {
+    border-bottom: 1px solid #dfdfdf;
+    padding: 10px 0;
+    font-size: 12px;
+    text-align: left;
+}

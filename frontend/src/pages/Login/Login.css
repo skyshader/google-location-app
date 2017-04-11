@@ -1,0 +1,33 @@
+.Login-container {
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+
+.Login-container .heading {
+    padding-bottom: 10px;
+}
+
+.Login-container input {
+    margin: 4px 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.Login-container-link {
+    display: block;
+    margin-top: 10px;
+    color: #2288ff;
+}
+
+.Login-error {
+    padding: 6px;
+    background: #ffa27c;
+    box-sizing: border-box;
+    font-size: 14px;
+    border-radius: 5px;
+    color: #fff;
+    border: 1px solid #ef7645;
+}
