@@ -17,7 +17,7 @@ Setup:
 
 NOTE: In test and development environment, the database is set to reset everytime the backend api starts (for dev usage).
 
-And that's it! The API will be up and running.
+And that's it! The API will be up and running (by default on port 3001 as in .env file).
 
 #### Frontend
 
@@ -25,3 +25,5 @@ Setup:
 - Go to frontend project and run `npm install`
 - Update API endpoint as per your need in `constants/index.js`
 - Run `npm start` to launch the app
+
+The frontend will run on port 3000 by default and will request to API on port 3001.
